@@ -5,6 +5,9 @@ module.exports = {
     fontFamily: {
       barlow: ['barlow condensed', 'nunito', 'fira sans'],
     },
+    minHeight: {
+      viewport: '100dvh',
+    },
     extend: {
       colors: {
         'deep-blue': '#242942',
